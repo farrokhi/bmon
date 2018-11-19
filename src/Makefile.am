@@ -41,4 +41,5 @@ bmon_SOURCES = \
 	out_null.c \
 	out_format.c \
 	out_ascii.c \
-	out_curses.c
+	out_curses.c \
+	out_trigger.c
